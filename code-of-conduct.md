@@ -52,7 +52,7 @@ Additional elements adapted from the [Tech404 Code of Conduct][404coc], which is
 
 This policy is licensed under the [Creative Commons Zero license][cc0].  It is public domain, no credit and no open licensing of your version is required.
 
-[tri-coc]: https://github.com/Trianglerb/policies/blob/master/code-of-conduct.md
+[tricoc]: https://github.com/Trianglerb/policies/blob/master/code-of-conduct.md
 [more]: http://geekfeminism.wikia.com/wiki/Conference_anti-harassment
 [404coc]: https://github.com/tech404/CoC
 [cc-by]: http://creativecommons.org/licenses/by/3.0/deed.en_US
